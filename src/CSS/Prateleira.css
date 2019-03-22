@@ -1,0 +1,183 @@
+@import "~slick-carousel/slick/slick.css";
+@import "~slick-carousel/slick/slick-theme.css";
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:400,700);
+
+.principal{
+    width: 100%;
+    height: 480px;
+    
+}
+.prateleira{
+    width: 100%;
+    height: 407px;
+}
+.titulo{
+    padding: 10px 0px;
+    position: relative;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: normal;
+    color: #011627;
+}
+.tituloPrateleira h2:before{
+    content: "_____"; 
+    position: absolute; 
+    bottom: 0; 
+    left: 0; 
+    font-weight: 700; 
+    color: #ff9f1c;
+}
+.produtos{
+    
+    width: 100%;
+}
+.alinhaProduto{
+    display: flex;
+    justify-content: space-between;
+}
+.alinhaMobi{
+    display:none;
+}
+.produto{
+    position: relative;
+    display: flex;
+    align-items: center;
+    width: 216px;
+    justify-content: center;
+    flex-direction: column;
+    height: 385px;
+}
+.produto:hover {
+    background: #F2F2F2;
+}
+.produto:hover .btn{
+    background: #2EC4B6;
+}
+.nomeProduto{
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: normal;
+    text-align: center;
+    color: #7A7A7A;
+}
+.precoAntigo{
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: normal;
+    text-align: center;
+    text-decoration-line: line-through;
+    color: #7A7A7A;
+}
+.precoNovo{
+    margin: 0;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: normal;
+    text-align: center;
+    color: #2EC4B6;
+}
+.parcela{
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 11px;
+    line-height: normal;
+    text-align: center;
+    color: #7A7A7A;
+}
+.btn{
+    cursor: pointer;
+    position: relative;
+    width: 125.28px;
+    height: 32.42px;
+    background: #FFFFFF;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+.car{
+    position: relative;
+    padding: 5px
+}
+.textoBtn{
+    position: absolute;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: normal;
+    color: #FFFFFF;
+    right: 9px;
+    top: -14px;
+    padding: 8px;
+}
+.desconto{
+    position: absolute;
+    top: 0;
+    right: 0;
+
+}
+@media (max-width:800px){
+    .principal{
+        width: 100%;
+        height: 430px;     
+    }
+    .alinhaProduto {
+        display: none;
+    }
+    .prateleira{
+        height: 100%;
+        padding: 0;
+    }
+    .titulo{
+
+        font-size: 18px;
+    }
+    .produtos{
+        width: 100%;
+        z-index: 1;
+        height: 263px;
+        display: flex; 
+    }
+    .alinhaMobi{
+        position: relative;
+        display: block;
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+    }
+    .produtoMobi{
+        width: 48%;
+        height: 350px;
+        justify-content: center;
+        flex-direction: column;
+        display: flex;
+    }
+    .desconto{
+        position: absolute;
+    }
+    .tenis{
+        padding-left: 18px;
+        text-align: center;
+    }
+    .btn{
+        background: #2EC4B6;
+        width: 140px;
+        margin: 0 auto;
+    }
+    .btn img{
+        padding-left: 18px;
+    }
+    .btn p{
+        padding-right: 18px;
+        font-size: 15.309px;
+        padding-top: 5px;
+    }
+}
