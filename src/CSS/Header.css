@@ -10,7 +10,7 @@
     z-index: 1;
   }
 .container{
-    max-width: 1160px;
+    max-width: 1120px;
     margin: 0 auto;
 }
 .header{
@@ -42,9 +42,16 @@
 }
 .minhaConta{
     display: flex;
-    width: 28%;
+    width: 290px;
     justify-content: space-between;
     align-items: center;
+}
+.minhaConta span{
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: norma
 }
 .account img{
     margin-right: 5px;
