@@ -17,48 +17,48 @@ class Banner extends Component {
             <div className="slider">
                <Slider {...settings}>
                 <div className="itensBanner">
-                  <div className="textoPrincipal"> 
-                    <div className="alinhaTexto">
+                  <div className="container">
+                  <div className="textoPrincipal">                   
                       <p className="">
                         Nossa especialidade:<br/>experiência de compra.<span></span>
                       </p>
-                    </div>
+                  </div>
                   </div>
                   <div className="imgPrincipal">
                     <img src={Imagem}/>
                   </div>
                 </div>
                 <div className="itensBanner">
-                  <div className="textoPrincipal"> 
-                    <div className="alinhaTexto">
+                  <div className="container">
+                  <div className="textoPrincipal">                   
                       <p className="">
                         Nossa especialidade:<br/>experiência de compra.<span></span>
                       </p>
-                    </div> 
+                  </div>
                   </div>
                   <div className="imgPrincipal">
                     <img src={Imagem}/>
                   </div>
                 </div>
                 <div className="itensBanner">
-                  <div className="textoPrincipal"> 
-                    <div className="alinhaTexto">
+                  <div className="container">
+                  <div className="textoPrincipal">                   
                       <p className="">
                         Nossa especialidade:<br/>experiência de compra.<span></span>
                       </p>
-                    </div>
+                  </div>
                   </div>
                   <div className="imgPrincipal">
                     <img src={Imagem}/>
                   </div>
                 </div>
                 <div className="itensBanner">
-                  <div className="textoPrincipal"> 
-                    <div className="alinhaTexto">
-                        <p className="">
+                  <div className="container">
+                  <div className="textoPrincipal">                   
+                      <p className="">
                         Nossa especialidade:<br/>experiência de compra.<span></span>
                       </p>
-                    </div>
+                  </div>
                   </div>
                   <div className="imgPrincipal">
                     <img src={Imagem}/>
