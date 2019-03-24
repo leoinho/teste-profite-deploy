@@ -10,7 +10,7 @@
     z-index: 1;
   }
 .container{
-    max-width: 1240px;
+    max-width: 1160px;
     margin: 0 auto;
 }
 .header{
@@ -27,7 +27,7 @@
 }
 .busca{
     position: relative;
-    width: 30%;
+    width: 450px;
 
 }
 .busca img{
