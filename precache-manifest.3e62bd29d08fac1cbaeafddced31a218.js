@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "4e54d1744b7b9b2ae1633e81e59112fb",
-    "url": "/teste-profite-deploy/static/media/LupaHeader.4e54d174.svg"
+    "revision": "98a8b01b169f919d34347e6558e9dc01",
+    "url": "/teste-profite-deploy/static/media/AvataHeader.98a8b01b.svg"
   },
   {
-    "revision": "c35f51e3c37df09eb0f1",
-    "url": "/teste-profite-deploy/static/css/main.7be00758.chunk.css"
+    "revision": "98902e2c01a98ff67865",
+    "url": "/teste-profite-deploy/static/css/main.6891515f.chunk.css"
   },
   {
     "revision": "c19af832477f70c23194",
@@ -16,8 +16,12 @@ self.__precacheManifest = [
     "url": "/teste-profite-deploy/static/media/slick.f97e3bbf.svg"
   },
   {
-    "revision": "b008636b016923ad2029",
-    "url": "/teste-profite-deploy/static/js/2.36b10241.chunk.js"
+    "revision": "007fb951440d38fb382b",
+    "url": "/teste-profite-deploy/static/js/2.8b689201.chunk.js"
+  },
+  {
+    "revision": "10612e71a4c1e4adcacf7aef4911a01f",
+    "url": "/teste-profite-deploy/static/media/BannerNovo.10612e71.jpeg"
   },
   {
     "revision": "da0fcba2cefd9c1f1b926775daee5e38",
@@ -30,10 +34,6 @@ self.__precacheManifest = [
   {
     "revision": "ebc5e10b54f7b90f42049fba0a40c861",
     "url": "/teste-profite-deploy/static/media/Star.ebc5e10b.svg"
-  },
-  {
-    "revision": "10612e71a4c1e4adcacf7aef4911a01f",
-    "url": "/teste-profite-deploy/static/media/BannerNovo.10612e71.jpeg"
   },
   {
     "revision": "7fb4f35dfc4f68a239072feae4daa77f",
@@ -52,12 +52,12 @@ self.__precacheManifest = [
     "url": "/teste-profite-deploy/static/media/LogoHeader.ed28d9b2.svg"
   },
   {
-    "revision": "c35f51e3c37df09eb0f1",
-    "url": "/teste-profite-deploy/static/js/main.0a8de6e8.chunk.js"
+    "revision": "4e54d1744b7b9b2ae1633e81e59112fb",
+    "url": "/teste-profite-deploy/static/media/LupaHeader.4e54d174.svg"
   },
   {
-    "revision": "98a8b01b169f919d34347e6558e9dc01",
-    "url": "/teste-profite-deploy/static/media/AvataHeader.98a8b01b.svg"
+    "revision": "98902e2c01a98ff67865",
+    "url": "/teste-profite-deploy/static/js/main.ba31d9a7.chunk.js"
   },
   {
     "revision": "3731037c87ed2c051c934d3f84a40d6a",
@@ -70,6 +70,10 @@ self.__precacheManifest = [
   {
     "revision": "41e5a434125787bdd9157ded4b5b18e5",
     "url": "/teste-profite-deploy/static/media/MenuMobiHeader.41e5a434.svg"
+  },
+  {
+    "revision": "94faa47d5a9c72f852bfd5caf5612f25",
+    "url": "/teste-profite-deploy/static/media/Excluir.94faa47d.svg"
   },
   {
     "revision": "4a84785f4bf835ddeed6051924d50493",
@@ -100,11 +104,11 @@ self.__precacheManifest = [
     "url": "/teste-profite-deploy/static/media/slick.d41f55a7.ttf"
   },
   {
-    "revision": "b008636b016923ad2029",
+    "revision": "007fb951440d38fb382b",
     "url": "/teste-profite-deploy/static/css/2.eae399aa.chunk.css"
   },
   {
-    "revision": "d9c53c9c1590746876620f9fb08d6988",
+    "revision": "62346530f456b34df5e14f98e0d0fbc5",
     "url": "/teste-profite-deploy/index.html"
   }
 ];
