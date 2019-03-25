@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/teste-profite-deploy/static/media/LupaHeader.4e54d174.svg"
   },
   {
-    "revision": "d46267b5251a526d7d76",
-    "url": "/teste-profite-deploy/static/css/main.e752e31e.chunk.css"
+    "revision": "c35f51e3c37df09eb0f1",
+    "url": "/teste-profite-deploy/static/css/main.7be00758.chunk.css"
   },
   {
     "revision": "c19af832477f70c23194",
@@ -16,12 +16,8 @@ self.__precacheManifest = [
     "url": "/teste-profite-deploy/static/media/slick.f97e3bbf.svg"
   },
   {
-    "revision": "b13113f5322c6dc55b41",
-    "url": "/teste-profite-deploy/static/js/2.def8d527.chunk.js"
-  },
-  {
-    "revision": "efcf99566895f216f197f04d90fa6ec8",
-    "url": "/teste-profite-deploy/static/media/Banner.efcf9956.png"
+    "revision": "b008636b016923ad2029",
+    "url": "/teste-profite-deploy/static/js/2.36b10241.chunk.js"
   },
   {
     "revision": "da0fcba2cefd9c1f1b926775daee5e38",
@@ -34,6 +30,10 @@ self.__precacheManifest = [
   {
     "revision": "ebc5e10b54f7b90f42049fba0a40c861",
     "url": "/teste-profite-deploy/static/media/Star.ebc5e10b.svg"
+  },
+  {
+    "revision": "10612e71a4c1e4adcacf7aef4911a01f",
+    "url": "/teste-profite-deploy/static/media/BannerNovo.10612e71.jpeg"
   },
   {
     "revision": "7fb4f35dfc4f68a239072feae4daa77f",
@@ -52,8 +52,8 @@ self.__precacheManifest = [
     "url": "/teste-profite-deploy/static/media/LogoHeader.ed28d9b2.svg"
   },
   {
-    "revision": "d46267b5251a526d7d76",
-    "url": "/teste-profite-deploy/static/js/main.ea6d376f.chunk.js"
+    "revision": "c35f51e3c37df09eb0f1",
+    "url": "/teste-profite-deploy/static/js/main.0a8de6e8.chunk.js"
   },
   {
     "revision": "98a8b01b169f919d34347e6558e9dc01",
@@ -100,11 +100,11 @@ self.__precacheManifest = [
     "url": "/teste-profite-deploy/static/media/slick.d41f55a7.ttf"
   },
   {
-    "revision": "b13113f5322c6dc55b41",
+    "revision": "b008636b016923ad2029",
     "url": "/teste-profite-deploy/static/css/2.eae399aa.chunk.css"
   },
   {
-    "revision": "f9cdcb00d91129907fe934f0d9b33055",
+    "revision": "d9c53c9c1590746876620f9fb08d6988",
     "url": "/teste-profite-deploy/index.html"
   }
 ];
