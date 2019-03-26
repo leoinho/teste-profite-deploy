@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/teste-profite-deploy/static/media/AvataHeader.98a8b01b.svg"
   },
   {
-    "revision": "7e6c19e4822a089443cb",
-    "url": "/teste-profite-deploy/static/css/main.d6034b36.chunk.css"
+    "revision": "d3d27611876051875d80",
+    "url": "/teste-profite-deploy/static/css/main.60d3e0ae.chunk.css"
   },
   {
     "revision": "c19af832477f70c23194",
@@ -56,8 +56,8 @@ self.__precacheManifest = [
     "url": "/teste-profite-deploy/static/media/LupaHeader.4e54d174.svg"
   },
   {
-    "revision": "7e6c19e4822a089443cb",
-    "url": "/teste-profite-deploy/static/js/main.1d1110e8.chunk.js"
+    "revision": "d3d27611876051875d80",
+    "url": "/teste-profite-deploy/static/js/main.492bdce7.chunk.js"
   },
   {
     "revision": "3731037c87ed2c051c934d3f84a40d6a",
@@ -92,12 +92,12 @@ self.__precacheManifest = [
     "url": "/teste-profite-deploy/static/media/LogosFooterMobi.8004e36d.svg"
   },
   {
-    "revision": "ced611daf7709cc778da928fec876475",
-    "url": "/teste-profite-deploy/static/media/slick.ced611da.eot"
-  },
-  {
     "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
     "url": "/teste-profite-deploy/static/media/slick.b7c9e1e4.woff"
+  },
+  {
+    "revision": "ced611daf7709cc778da928fec876475",
+    "url": "/teste-profite-deploy/static/media/slick.ced611da.eot"
   },
   {
     "revision": "d41f55a78e6f49a5512878df1737e58a",
@@ -108,7 +108,7 @@ self.__precacheManifest = [
     "url": "/teste-profite-deploy/static/css/2.eae399aa.chunk.css"
   },
   {
-    "revision": "f9e0bb3a3bfd6c53c3fe327dd6eac2ce",
+    "revision": "963cf01572fa6b99ddaeb11bbc3d16be",
     "url": "/teste-profite-deploy/index.html"
   }
 ];
