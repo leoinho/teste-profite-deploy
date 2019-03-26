@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/teste-profite-deploy/static/media/AvataHeader.98a8b01b.svg"
   },
   {
-    "revision": "98902e2c01a98ff67865",
-    "url": "/teste-profite-deploy/static/css/main.6891515f.chunk.css"
+    "revision": "7e6c19e4822a089443cb",
+    "url": "/teste-profite-deploy/static/css/main.d6034b36.chunk.css"
   },
   {
     "revision": "c19af832477f70c23194",
@@ -56,8 +56,8 @@ self.__precacheManifest = [
     "url": "/teste-profite-deploy/static/media/LupaHeader.4e54d174.svg"
   },
   {
-    "revision": "98902e2c01a98ff67865",
-    "url": "/teste-profite-deploy/static/js/main.ba31d9a7.chunk.js"
+    "revision": "7e6c19e4822a089443cb",
+    "url": "/teste-profite-deploy/static/js/main.1d1110e8.chunk.js"
   },
   {
     "revision": "3731037c87ed2c051c934d3f84a40d6a",
@@ -108,7 +108,7 @@ self.__precacheManifest = [
     "url": "/teste-profite-deploy/static/css/2.eae399aa.chunk.css"
   },
   {
-    "revision": "62346530f456b34df5e14f98e0d0fbc5",
+    "revision": "f9e0bb3a3bfd6c53c3fe327dd6eac2ce",
     "url": "/teste-profite-deploy/index.html"
   }
 ];
