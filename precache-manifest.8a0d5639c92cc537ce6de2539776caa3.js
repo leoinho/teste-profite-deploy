@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/teste-profite-deploy/static/media/AvataHeader.98a8b01b.svg"
   },
   {
-    "revision": "bfea28b973f763f8bdfb",
-    "url": "/teste-profite-deploy/static/css/main.80597c45.chunk.css"
+    "revision": "fa1ae6a2ea85b6844b20",
+    "url": "/teste-profite-deploy/static/css/main.b15ebcf6.chunk.css"
   },
   {
     "revision": "c19af832477f70c23194",
@@ -56,7 +56,7 @@ self.__precacheManifest = [
     "url": "/teste-profite-deploy/static/media/LupaHeader.4e54d174.svg"
   },
   {
-    "revision": "bfea28b973f763f8bdfb",
+    "revision": "fa1ae6a2ea85b6844b20",
     "url": "/teste-profite-deploy/static/js/main.b79eee59.chunk.js"
   },
   {
@@ -108,7 +108,7 @@ self.__precacheManifest = [
     "url": "/teste-profite-deploy/static/css/2.eae399aa.chunk.css"
   },
   {
-    "revision": "a1e6812de05350b936f3cde808d576d0",
+    "revision": "83d97751d79b7dfd798365e023016708",
     "url": "/teste-profite-deploy/index.html"
   }
 ];
