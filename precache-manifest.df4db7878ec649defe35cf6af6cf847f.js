@@ -4,20 +4,24 @@ self.__precacheManifest = [
     "url": "/teste-profite-deploy/static/media/AvataHeader.98a8b01b.svg"
   },
   {
-    "revision": "d3d27611876051875d80",
-    "url": "/teste-profite-deploy/static/css/main.60d3e0ae.chunk.css"
+    "revision": "bfea28b973f763f8bdfb",
+    "url": "/teste-profite-deploy/static/css/main.80597c45.chunk.css"
   },
   {
     "revision": "c19af832477f70c23194",
     "url": "/teste-profite-deploy/static/js/runtime~main.db4a0fcc.js"
   },
   {
-    "revision": "f97e3bbf73254b0112091d0192f17aec",
-    "url": "/teste-profite-deploy/static/media/slick.f97e3bbf.svg"
+    "revision": "4b8d60b75c649989c28a313829c4ee9a",
+    "url": "/teste-profite-deploy/static/media/DescontoMobi.4b8d60b7.svg"
   },
   {
-    "revision": "007fb951440d38fb382b",
-    "url": "/teste-profite-deploy/static/js/2.8b689201.chunk.js"
+    "revision": "87652cdfd258b6251d4a",
+    "url": "/teste-profite-deploy/static/js/2.5c2609a8.chunk.js"
+  },
+  {
+    "revision": "7fb4f35dfc4f68a239072feae4daa77f",
+    "url": "/teste-profite-deploy/static/media/TenisPequeno.7fb4f35d.png"
   },
   {
     "revision": "10612e71a4c1e4adcacf7aef4911a01f",
@@ -36,10 +40,6 @@ self.__precacheManifest = [
     "url": "/teste-profite-deploy/static/media/Star.ebc5e10b.svg"
   },
   {
-    "revision": "7fb4f35dfc4f68a239072feae4daa77f",
-    "url": "/teste-profite-deploy/static/media/TenisPequeno.7fb4f35d.png"
-  },
-  {
     "revision": "a019970708b74c6493fd72f14d115eee",
     "url": "/teste-profite-deploy/static/media/Email.a0199707.svg"
   },
@@ -56,8 +56,8 @@ self.__precacheManifest = [
     "url": "/teste-profite-deploy/static/media/LupaHeader.4e54d174.svg"
   },
   {
-    "revision": "d3d27611876051875d80",
-    "url": "/teste-profite-deploy/static/js/main.492bdce7.chunk.js"
+    "revision": "bfea28b973f763f8bdfb",
+    "url": "/teste-profite-deploy/static/js/main.b79eee59.chunk.js"
   },
   {
     "revision": "3731037c87ed2c051c934d3f84a40d6a",
@@ -80,10 +80,6 @@ self.__precacheManifest = [
     "url": "/teste-profite-deploy/static/media/Tenis.4a84785f.png"
   },
   {
-    "revision": "4b8d60b75c649989c28a313829c4ee9a",
-    "url": "/teste-profite-deploy/static/media/DescontoMobi.4b8d60b7.svg"
-  },
-  {
     "revision": "ec7bf2a5fba418a066657da6f0e99de3",
     "url": "/teste-profite-deploy/static/media/LogosFooter.ec7bf2a5.svg"
   },
@@ -104,11 +100,15 @@ self.__precacheManifest = [
     "url": "/teste-profite-deploy/static/media/slick.d41f55a7.ttf"
   },
   {
-    "revision": "007fb951440d38fb382b",
+    "revision": "f97e3bbf73254b0112091d0192f17aec",
+    "url": "/teste-profite-deploy/static/media/slick.f97e3bbf.svg"
+  },
+  {
+    "revision": "87652cdfd258b6251d4a",
     "url": "/teste-profite-deploy/static/css/2.eae399aa.chunk.css"
   },
   {
-    "revision": "963cf01572fa6b99ddaeb11bbc3d16be",
+    "revision": "a1e6812de05350b936f3cde808d576d0",
     "url": "/teste-profite-deploy/index.html"
   }
 ];
