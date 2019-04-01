@@ -1,9 +1,11 @@
 import React, { Component } from 'react';
+import { Link } from 'react-router-dom';
 import '../CSS/Footer.css';
 import Email from '../Img/ImgFooter/Email.svg';
 import Fone from '../Img/ImgFooter/Fone.svg';
 import LogosFooter from '../Img/ImgFooter/LogosFooter.svg';
 import LogoFooterMobi from '../Img/ImgFooter/LogosFooterMobi.svg';
+
 
 class Footer extends Component {
   render() {
@@ -17,8 +19,8 @@ class Footer extends Component {
                     <div className="localizacao">
                         <div className="enderecos">
                             <div className="enderecoSaoPaulo">
-                                <p className="tituloEndereco">São Paulo</p>
-                                <p>
+                                
+                                <p> <span className="tituloEndereco">São Paulo</span><br/>
                                     Rua do Rócio, 423/1801<br/>
                                     Vila Olímpia -SP<br/>
                                     04552-000<br/>
@@ -26,8 +28,8 @@ class Footer extends Component {
                                 </p>
                             </div>
                             <div className="enderecoRio">
-                                <p className="tituloEndereco">Rio de Janeiro</p>
-                                <p>
+                                
+                                <p> <span className="tituloEndereco">Rio de Janeiro</span><br/>
                                     Vol. da Pátria, 301/702<br/>
                                     Botafogo-RJ<br/>
                                     22270-000<br/>
@@ -40,11 +42,11 @@ class Footer extends Component {
                         <div className="posicaoContatos">
                             <div className="formaContatos">
                                 <img src={Email}/>
-                                <p>ENTRE EM CONTATO</p>
+                                <Link to="/contato"><p>ENTRE EM CONTATO</p></Link>
                             </div>
                             <div className="formaContatos">
                                 <img src={Fone}/>
-                                <p>FALE COM O NOSSO<br/>CONSULTOR ONLINE</p>
+                                <Link to="/contato"><p>FALE COM O NOSSO<br/>CONSULTOR ONLINE</p></Link>
                             </div>
                         </div>
                     </div>
@@ -82,13 +84,13 @@ class Footer extends Component {
                     </div>
                 </div>
                 <div className="contatoMobi">
-                    <div className="formaContatoMobi">
+                <div className="formaContatoMobi">
                         <img src={Email}/>
-                        <p>ENTRE EM CONTATO</p>
+                        <Link to="/contato"><p>ENTRE EM CONTATO</p></Link>
                     </div>
                     <div className="formaContatoMobi">
                         <img src={Fone}/>
-                        <p>FALE COM O NOSSO<br/>CONSULTOR ONLINE</p>
+                        <Link to="/contato"><p>FALE COM O NOSSO<br/>CONSULTOR ONLINE</p></Link>
                     </div>
                 </div>
                 <div className="logoFooterMobi">

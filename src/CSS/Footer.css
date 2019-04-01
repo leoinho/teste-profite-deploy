@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Ubuntu:400,700);
 .container3{
     width: 100%;
-    height: 230px;
+    height: 223px;
     background: #011627;
     display: flex;
     align-items: center;
@@ -10,34 +10,38 @@
 }
 .container4{
     width: 100%;
-    width: 70%;
-    height: 83%;
+    width: 1185px;
+    height: 89%;
+
 }
 .tituloFooter{
-    height: 30%;
+    height: 52px;
     font-family: Ubuntu;
     font-style: normal;
     font-weight: bold;
     font-size: 20px;
     line-height: normal;
     color: #FFFFFF;
+    padding-left: 14px;
+    padding-top: 2px;
 }
 .tituloFooter span{
     border-bottom: 5px solid #FF9F1C;
     display: -webkit-box;
-    width: 51px;
-    height: 33px;
+    width: 42px;
+    height: 38px;
+    padding-top: 13px;
 
 }
 .informacaoFooter{
     width: 100%;
-    height: 70%;
+    height: 123px;
     display: flex;
     justify-content: space-between;
     
 }
 .localizacao{
-    width: 33%;
+    width: 33.3%;
     height: 100%;
 }
 .enderecos{
@@ -48,9 +52,15 @@
 .enderecos p{
     font-family: Ubuntu;
     font-style: normal;
-    font-size: 16px;
+    font-size: 13px;
     line-height: 22px;
     color: #FFFFFF;
+    padding-left: 16px;
+    padding-top: 4px;
+
+}
+.enderecoRio{
+    margin-right: 56px;
 }
 .tituloEndereco{
 font-family: Ubuntu;
@@ -62,20 +72,21 @@ color: #FFFFFF;
 }
 .contato{
     
-    width: 33%;
+    width: 33.3%;
     height: 100%;
     display: flex;
     justify-content: center;
     align-items: flex-end;
 }
 .logoFooter{
-    width: 33%;
+    width: 33.3%;
     height: 100%;
     display: flex;
     justify-content: flex-end;
     align-items: flex-end;
 }
 .posicaoContatos {
+    padding-left: 14px;
     display: flex;
     width: 195px;
     height: 101px;
@@ -104,6 +115,9 @@ color: #FFFFFF;
 .footerMobi{
     display: none;
 }
+a:link { 
+    text-decoration:none; 
+    } 
 @media( max-width:800px){
     .container3{
         height: 370px;

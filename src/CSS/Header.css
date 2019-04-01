@@ -10,7 +10,7 @@
     z-index: 1;
   }
 .container{
-    max-width: 1120px;
+    max-width: 1200px;
     margin: 0 auto;
 }
 .header{
@@ -23,35 +23,48 @@
     display: none;
 }
 .logo{
-    width: 10%;
+    width: 9%;
+    padding-left: 21px;
+    top: -3px;
 }
 .busca{
     position: relative;
     width: 450px;
-
+    bottom: 6px;
 }
 .busca img{
     position: absolute;
-    right: 1%;
+    right: 0%;
+    top: 5px;
 }
 .busca input{
     width: 100%;
     border: 0px;
     border-bottom: 1px solid #7A7A7A;
-    line-height: 20px;
-}
-.minhaConta{
-    display: flex;
-    width: 290px;
-    justify-content: space-between;
-    align-items: center;
-}
-.minhaConta span{
+    line-height: 26px;
+    
     font-family: Ubuntu;
     font-style: normal;
     font-weight: normal;
     font-size: 13px;
-    line-height: norma
+
+    color: #7A7A7A;
+}
+.minhaConta{
+    display: flex;
+    width: 309px;
+    justify-content: space-between;
+    align-items: center;
+}
+.minhaConta span{
+    right: 571px;
+    top: 29px;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: normal;
+    color: #7A7A7A;
 }
 .account img{
     margin-right: 5px;
@@ -59,8 +72,10 @@
 }
 .miniCart{
     border-right: 1px solid #7A7A7A;
-    padding-right: 22px; 
+    padding-right: 20px;
+    padding-left: 0px;
 }
+
 @media (max-width:600px){
     .container {
         padding: 0 20px;
