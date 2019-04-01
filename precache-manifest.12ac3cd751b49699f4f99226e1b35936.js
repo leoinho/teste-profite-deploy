@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "98a8b01b169f919d34347e6558e9dc01",
-    "url": "/teste-profite-deploy/static/media/AvataHeader.98a8b01b.svg"
+    "revision": "911c084fa326c143aa2cc95ded4ac7d4",
+    "url": "/teste-profite-deploy/static/media/Fone.911c084f.svg"
   },
   {
-    "revision": "fa1ae6a2ea85b6844b20",
-    "url": "/teste-profite-deploy/static/css/main.b15ebcf6.chunk.css"
+    "revision": "87d2fb4327345768f627",
+    "url": "/teste-profite-deploy/static/css/main.4f9f1221.chunk.css"
   },
   {
     "revision": "c19af832477f70c23194",
@@ -16,8 +16,8 @@ self.__precacheManifest = [
     "url": "/teste-profite-deploy/static/media/DescontoMobi.4b8d60b7.svg"
   },
   {
-    "revision": "87652cdfd258b6251d4a",
-    "url": "/teste-profite-deploy/static/js/2.5c2609a8.chunk.js"
+    "revision": "b5ffe45f4ab0aac33ffd",
+    "url": "/teste-profite-deploy/static/js/2.cd1f3e36.chunk.js"
   },
   {
     "revision": "7fb4f35dfc4f68a239072feae4daa77f",
@@ -32,6 +32,18 @@ self.__precacheManifest = [
     "url": "/teste-profite-deploy/static/media/BannerMobi.da0fcba2.png"
   },
   {
+    "revision": "ed28d9b242fc6302a050cf1c31b16347",
+    "url": "/teste-profite-deploy/static/media/LogoHeader.ed28d9b2.svg"
+  },
+  {
+    "revision": "94faa47d5a9c72f852bfd5caf5612f25",
+    "url": "/teste-profite-deploy/static/media/Excluir.94faa47d.svg"
+  },
+  {
+    "revision": "8004e36d1d5b8d6ac9787cbd738dfa74",
+    "url": "/teste-profite-deploy/static/media/LogosFooterMobi.8004e36d.svg"
+  },
+  {
     "revision": "6c97e3380ef2343e1034d6e1b96eb295",
     "url": "/teste-profite-deploy/static/media/Carrinho.6c97e338.svg"
   },
@@ -44,20 +56,16 @@ self.__precacheManifest = [
     "url": "/teste-profite-deploy/static/media/Email.a0199707.svg"
   },
   {
-    "revision": "911c084fa326c143aa2cc95ded4ac7d4",
-    "url": "/teste-profite-deploy/static/media/Fone.911c084f.svg"
-  },
-  {
-    "revision": "ed28d9b242fc6302a050cf1c31b16347",
-    "url": "/teste-profite-deploy/static/media/LogoHeader.ed28d9b2.svg"
+    "revision": "87d2fb4327345768f627",
+    "url": "/teste-profite-deploy/static/js/main.2297eea8.chunk.js"
   },
   {
     "revision": "4e54d1744b7b9b2ae1633e81e59112fb",
     "url": "/teste-profite-deploy/static/media/LupaHeader.4e54d174.svg"
   },
   {
-    "revision": "fa1ae6a2ea85b6844b20",
-    "url": "/teste-profite-deploy/static/js/main.b79eee59.chunk.js"
+    "revision": "98a8b01b169f919d34347e6558e9dc01",
+    "url": "/teste-profite-deploy/static/media/AvataHeader.98a8b01b.svg"
   },
   {
     "revision": "3731037c87ed2c051c934d3f84a40d6a",
@@ -72,10 +80,6 @@ self.__precacheManifest = [
     "url": "/teste-profite-deploy/static/media/MenuMobiHeader.41e5a434.svg"
   },
   {
-    "revision": "94faa47d5a9c72f852bfd5caf5612f25",
-    "url": "/teste-profite-deploy/static/media/Excluir.94faa47d.svg"
-  },
-  {
     "revision": "4a84785f4bf835ddeed6051924d50493",
     "url": "/teste-profite-deploy/static/media/Tenis.4a84785f.png"
   },
@@ -84,16 +88,12 @@ self.__precacheManifest = [
     "url": "/teste-profite-deploy/static/media/LogosFooter.ec7bf2a5.svg"
   },
   {
-    "revision": "8004e36d1d5b8d6ac9787cbd738dfa74",
-    "url": "/teste-profite-deploy/static/media/LogosFooterMobi.8004e36d.svg"
+    "revision": "ced611daf7709cc778da928fec876475",
+    "url": "/teste-profite-deploy/static/media/slick.ced611da.eot"
   },
   {
     "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
     "url": "/teste-profite-deploy/static/media/slick.b7c9e1e4.woff"
-  },
-  {
-    "revision": "ced611daf7709cc778da928fec876475",
-    "url": "/teste-profite-deploy/static/media/slick.ced611da.eot"
   },
   {
     "revision": "d41f55a78e6f49a5512878df1737e58a",
@@ -104,11 +104,11 @@ self.__precacheManifest = [
     "url": "/teste-profite-deploy/static/media/slick.f97e3bbf.svg"
   },
   {
-    "revision": "87652cdfd258b6251d4a",
+    "revision": "b5ffe45f4ab0aac33ffd",
     "url": "/teste-profite-deploy/static/css/2.eae399aa.chunk.css"
   },
   {
-    "revision": "83d97751d79b7dfd798365e023016708",
+    "revision": "2810830792df3f23e0832815a75694a5",
     "url": "/teste-profite-deploy/index.html"
   }
 ];
